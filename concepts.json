@@ -1,0 +1,687 @@
+[
+  {
+    "name": "ai-search-visibility",
+    "mention_count": 5,
+    "score": 0.5
+  },
+  {
+    "name": "primary-category",
+    "mention_count": 4,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-suspension",
+    "mention_count": 3,
+    "score": 0.5
+  },
+  {
+    "name": "ask-maps",
+    "mention_count": 3,
+    "score": 0.5
+  },
+  {
+    "name": "review-filtering",
+    "mention_count": 3,
+    "score": 0.5
+  },
+  {
+    "name": "vicinity-update",
+    "mention_count": 3,
+    "score": 0.5
+  },
+  {
+    "name": "ranking-radius",
+    "mention_count": 3,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-optimization",
+    "mention_count": 3,
+    "score": 0.5
+  },
+  {
+    "name": "proximity",
+    "mention_count": 3,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-services-list",
+    "mention_count": 3,
+    "score": 0.5
+  },
+  {
+    "name": "business-name",
+    "mention_count": 3,
+    "score": 0.5
+  },
+  {
+    "name": "title-tags",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "on-page-seo",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "google-support",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "rebranding",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "service-area-business",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "product-experts",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-eligibility",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "escalation",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "engagement-signals",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "review-velocity",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "negative-seo",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "google-review-sweep",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "spam-signals",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "deprecation",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "field-history",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "whitespark",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-qa-section",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "local-search-ranking-factors",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "ranking-signals",
+    "mention_count": 2,
+    "score": 0.5
+  },
+  {
+    "name": "common-crawl",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "seasonal-patterns",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "harmonic-centrality",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gemini-maps",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "ai-overview",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-content",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-responses",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "moderation",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "possum-filter",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "ymyl",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-migration",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "practitioner-listings",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "verification-proof",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "reinstatement",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "address-display",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "google-workspace",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "account-suspension",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "business-acquisitions",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "office-selection",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "suspension-recovery",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "virtual-offices",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-account",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "service-area-radius",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "dba",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-migration",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "operator-hygiene",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "multi-listing",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "solo-practitioner",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "multi-business-address",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "insurance-agents",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "permanent-signage",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "deceptive-content",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "state-moves",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "signage",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-backup",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "vertical-specific",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "business-relocation",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "local-filter",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "location-strategy",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-recovery",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "documentation",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "agency-dashboard",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-generation",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "ctr-manipulation",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-location",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "service-area-pages",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "diversity-update",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "negative-review-management",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-extortion",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "thin-content-risk",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "local-pack",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "seasonal-business",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-website-connection",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "serp-real-estate",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "crawl-behavior",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-products",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "reachability",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "diversification",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-policy",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "brand-building",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "entity-building",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "phone-answer-rate",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "local-pack-decline",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-manipulation",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "entity-definition",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "ai-prompt-mining",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "niche-strategy",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "search-console",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "eligibility",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "local-organic",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "lsa",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-posts",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "ranking-signal-weights",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "service-pages",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "android-tracking",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "behavioral-signals",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "foot-traffic",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "spam-updates",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "keyword-stuffing",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "rank-tracking",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-suspension-risk",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-address",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "testimonials",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "citations",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-photos",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "doj-trial",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-signals",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "local-service-ads",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "business-hours",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "lsa-ranking-factors",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "industry-directories",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "map-pin",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "review-recency",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "best-of-lists",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "local-content",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "grid-rank",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "profile-monitoring",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "competitor-spam",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "performance-measurement",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-deletion",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "third-party-tools",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "account-issues",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "google-official-resources",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-guide",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "new-features",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-performance",
+    "mention_count": 1,
+    "score": 0.5
+  },
+  {
+    "name": "gbp-insights",
+    "mention_count": 1,
+    "score": 0.5
+  }
+]
